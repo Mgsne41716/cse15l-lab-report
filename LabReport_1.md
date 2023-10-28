@@ -27,7 +27,27 @@ After running ssh, they asked me my password. In the beginning, I just copied an
 ### 5.4 Error
 ![img_5.png](img_5.png)
 
-## Part 6 -  skldfjal
+## Part 6 -  Run the Server on a Remote Computer
 
-![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+
+## Part 7 - Brainstorm a little bit.
+1. Weather prediction web server
+2. learn CSS to make page more beautiful
+
+## Part 8 - Accessing URLs from the Command Line with curl
+### 8.1 Run it local
+![img_8.png](img_8.png)
+
+### 8.2 Run it remotely
+![img_9.png](img_9.png)
+
+
+## Part 9 - Make the Simplest “Search Engine”
+
+`print("hellow world")`
+
+
+
 
