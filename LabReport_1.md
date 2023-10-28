@@ -27,5 +27,7 @@ After running ssh, they asked me my password. In the beginning, I just copied an
 ### 5.4 Error
 ![img_5.png](img_5.png)
 
+## Part 6 -  skldfjal
 
+![img_6.png](img_6.png)
 
